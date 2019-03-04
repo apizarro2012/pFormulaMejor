@@ -1,3 +1,6 @@
+Roles de Equipo:
+https://angelesrod.wordpress.com/2017/03/22/roles-de-belbin/
+
 # pFormulaMejor
 
 https://codereview.stackexchange.com/questions/140335/regex-for-domain-validation-name-validation
